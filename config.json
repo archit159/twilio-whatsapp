@@ -1,0 +1,7 @@
+{
+  "twilio" : {
+      "phone_number": "+16508351859",
+      "account_sid" : "AC12808a94bb03ca8e935b86e8a716681c",
+      "auth_token" : "64163f6a902876722059a420c6d359a1"
+    }
+}
